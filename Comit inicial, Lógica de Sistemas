@@ -1,0 +1,6 @@
+mivariable=16
+minombre='Andres Bran'
+print("Hello world")
+#print ('Hello world')
+print(mivariable)
+print(minombre)
