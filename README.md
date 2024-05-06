@@ -1,2 +1,0 @@
-# Andresbran
-Lógica de sistemas
